@@ -4,6 +4,24 @@ A real-time geolocation tracking web application using **Leaflet.js**, **Socket.
 
 ---
 
+## 📸 Screenshots
+
+### 🖥️ Preview Page
+![Preview](assets/preview.png)
+
+---
+
+### 📱 Multi-Device Support
+![Multi Device](assets/multidevice.png)
+
+---
+
+### 🔌 User Disconnection Screen
+![User Disconnect](assets/userdisconnect.png)
+
+
+---
+
 ## 🚀 Features
 
 - 📍 Live geolocation tracking of connected users.
@@ -79,26 +97,6 @@ node app.js
 
 
 Visit http://localhost:3000 in multiple tabs or devices to see real-time tracking in action.
-
-
-
-📸 Screenshots
-Add screenshots here for better visual documentation:
-
-
-### 🖥️ Preview Page
-![Preview](assets/preview.png)
-
----
-
-### 📱 Multi-Device Support
-![Multi Device](assets/multidevice.png)
-
----
-
-### 🔌 User Disconnection Screen
-![User Disconnect](assets/userdisconnect.png)
-
 
 
 
