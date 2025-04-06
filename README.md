@@ -48,6 +48,7 @@ A real-time geolocation tracking web application using **Leaflet.js**, **Socket.
 
 
 <pre>
+
 RealTime_Tracker
 ├── assets/                 # Media assets (images for documentation/screenshots)
 │   ├── multidevice.png     # Screenshot showing multi-device support
