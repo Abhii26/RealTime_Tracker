@@ -85,11 +85,20 @@ Visit http://localhost:3000 in multiple tabs or devices to see real-time trackin
 📸 Screenshots
 Add screenshots here for better visual documentation:
 
-map view with multiple users
 
-marker update animation
+### 🖥️ Preview Page
+![Preview](assets/preview.png)
 
-user disconnect and marker removal
+---
+
+### 📱 Multi-Device Support
+![Multi Device](assets/multidevice.png)
+
+---
+
+### 🔌 User Disconnection Screen
+![User Disconnect](assets/userdisconnect.png)
+
 
 
 
